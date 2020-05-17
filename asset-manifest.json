@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactChallange/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactChallange/static/js/main.5f9b6b47.chunk.js",
+    "main.js.map": "/ReactChallange/static/js/main.5f9b6b47.chunk.js.map",
+    "runtime-main.js": "/ReactChallange/static/js/runtime-main.2ca745b5.js",
+    "runtime-main.js.map": "/ReactChallange/static/js/runtime-main.2ca745b5.js.map",
+    "static/css/2.b0a67369.chunk.css": "/ReactChallange/static/css/2.b0a67369.chunk.css",
+    "static/js/2.dfcc1a82.chunk.js": "/ReactChallange/static/js/2.dfcc1a82.chunk.js",
+    "static/js/2.dfcc1a82.chunk.js.map": "/ReactChallange/static/js/2.dfcc1a82.chunk.js.map",
+    "index.html": "/ReactChallange/index.html",
+    "precache-manifest.48fc918a41c259a2a44003cca29f2dc0.js": "/ReactChallange/precache-manifest.48fc918a41c259a2a44003cca29f2dc0.js",
+    "service-worker.js": "/ReactChallange/service-worker.js",
+    "static/css/2.b0a67369.chunk.css.map": "/ReactChallange/static/css/2.b0a67369.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactChallange/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dfcc1a82.chunk.js.LICENSE.txt": "/ReactChallange/static/js/2.dfcc1a82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ca745b5.js",
+    "static/css/2.b0a67369.chunk.css",
+    "static/js/2.dfcc1a82.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5f9b6b47.chunk.js"
+  ]
+}
